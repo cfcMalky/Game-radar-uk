@@ -1,0 +1,14 @@
+{
+  "name": "game-radar-uk",
+  "version": "1.0.0",
+  "description": "Side-by-side eBay and Vinted price comparison engine",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "cheerio": "^1.0.0-rc.12",
+    "express": "^4.19.0"
+  }
+}
